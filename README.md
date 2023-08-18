@@ -19,7 +19,22 @@ cargo run
 
 ## Examples
 
-[![Example pic](./wallpaper0.png)](.)
-[![Example pic](./wallpaper1.png)](.)
-[![Example pic](./wallpaper2.png)](.)
-[![Example pic](./wallpaper3.png)](.)
+Using `main.rs` with some or none modifications:
+
+<img src="./wallpaper0.png" width=384 height=216>
+<img src="./wallpaper1.png" width=384 height=216>
+<img src="./wallpaper2.png" width=384 height=216>
+<img src="./wallpaper3.png" width=384 height=216>
+
+<!-- ![Example pic](./wallpaper0.png) -->
+<!-- ![Example pic](./wallpaper1.png) -->
+<!-- ![Example pic](./wallpaper2.png) -->
+<!-- ![Example pic](./wallpaper3.png) -->
+
+Using `terrain.rs` as `main.rs`:
+
+<img src="./terrain1.png" width=384 height=216>
+<img src="./terrain2.png" width=384 height=216>
+
+<!-- ![Example pic](./terrain1.png) -->
+<!-- ![Example pic](./terrain2.png) -->
